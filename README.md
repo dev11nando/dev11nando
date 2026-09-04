@@ -40,18 +40,3 @@
 **Tools**
 
 `Docker` `Git` `GitHub Actions` `Terraform` `Serverless Framework`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev11nando&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev11nando&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🤝 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/mrcsfrnnd/)
